@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**egerdem/egerdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I will soon be a PhD researcher at King's College London, specializing in spatial audio, immersive audio, sound field reconstruction, and exploring AI+Music topics as a hobby, particularly symbolic music for jazz.
 
 - 🔭 I’m currently working on 
@@ -12,4 +9,3 @@ I will soon be a PhD researcher at King's College London, specializing in spatia
 
 📫 Feel free to reach out: ege.erdem@gmail.com
 
--->
